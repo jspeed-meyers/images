@@ -1,4 +1,8 @@
 contents:
+  repositories:
+    - https://package.cgr.dev/extras
+  keyring:
+    - https://package.cgr.dev/extras/chainguard-extras.rsa.pub
   packages:
     # terraform comes in via var.extra_packages
 
